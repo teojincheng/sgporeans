@@ -1,0 +1,34 @@
+.outlying-container{
+  display:grid;
+   grid-template-columns: auto auto;
+}
+
+
+.text-grid{
+text-align: center;
+margin: auto;
+}
+
+#grid-2{
+background-color: green;
+}
+
+#grid-2 p{
+padding: 50px;
+}
+
+#grid-4{
+background-color: yellow;
+}
+
+#grid-4 p{
+padding: 20px;
+}
+
+img{
+ height: 200px;
+}
+
+#grid-6{
+background-color: grey;
+}
