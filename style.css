@@ -51,7 +51,7 @@ background-color: #FFF0F5;
 
     .outlying-container{
   display:grid;
-   grid-template-columns: 20% 80%;
+   grid-template-columns: 40% 60%;
 }
 }
 
