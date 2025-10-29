@@ -48,14 +48,16 @@ background-color: #FFF0F5;
 #grid-6{background-color:transparent;}
 #grid-4{background-color:transparent;}
 #grid-shame{background-color:transparent;}
+
+    .outlying-container{
+  display:grid;
+   grid-template-columns: 20% 80%;
+}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  .outlying-container{
-  display:grid;
-   grid-template-columns: 40% 60%;
-}
+
   #grid-2{background-color:transparent;}
 #grid-6{background-color:transparent;}
 #grid-4{background-color:transparent;}
