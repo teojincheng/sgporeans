@@ -56,6 +56,9 @@ background-color: #FFF0F5;
 
   #dislike-container{display:grid;
    grid-template-columns: 55% 45%;}
+
+    #individual-container{display:grid;
+   grid-template-columns: 60% 40%;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
