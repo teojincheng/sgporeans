@@ -53,6 +53,9 @@ background-color: #FFF0F5;
   display:grid;
    grid-template-columns: 49% 51%;
 }
+
+  #dislike-container{display:grid;
+   grid-template-columns: 55% 45%;}
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
