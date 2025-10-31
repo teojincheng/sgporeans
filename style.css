@@ -58,11 +58,11 @@ background-color: #FFF0F5;
    grid-template-columns: 55% 45%;}
 
     #individual-container{display:grid;
-   grid-template-columns: 60% 40%;}
+   grid-template-columns: 49% 51%;}
 }
 #individual-crowd-img{
   height:auto;
-  max-width: 55%
+  max-width: 65%
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
