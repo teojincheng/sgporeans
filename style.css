@@ -60,6 +60,10 @@ background-color: #FFF0F5;
     #individual-container{display:grid;
    grid-template-columns: 60% 40%;}
 }
+#individual-crowd-img{
+  height:auto;
+  max-width: 49%
+}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
