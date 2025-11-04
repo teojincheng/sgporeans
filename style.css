@@ -51,7 +51,7 @@ background-color: #FFF0F5;
 
     .outlying-container{
   display:grid;
-   grid-template-columns: 49% 51%;
+   grid-template-columns: 55% 45%;
 }
 
   #dislike-container{display:grid;
