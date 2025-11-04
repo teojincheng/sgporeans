@@ -46,7 +46,7 @@ background-color: #FFF0F5;
 @media only screen and (max-width: 600px) {
 #grid-2{
   background-color:transparent;
-      max-height: 50%
+     
        }
 #grid-6{background-color:transparent;}
 #grid-4{background-color:transparent;}
@@ -72,6 +72,9 @@ background-color: #FFF0F5;
 @media only screen and (min-width: 600px) {
 
   #grid-2{background-color:transparent;}
+  #grid-2 p{
+padding: 0;
+}
 #grid-6{background-color:transparent;}
 #grid-4{background-color:transparent;}
 #grid-shame{background-color:transparent;}
