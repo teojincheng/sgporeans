@@ -89,9 +89,16 @@ padding: 0;
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .#grid-2{background-color:green;}
+  #grid-4{
+background-color: yellow;
+}
+  
 } 
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   #grid-2{background-color:green;}
+  #grid-4{
+background-color: yellow;
+}
 }
