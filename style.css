@@ -45,7 +45,7 @@ background-color: #FFF0F5;
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 #grid-2{
-  background-color:transparent;
+  
 }
     #grid-2 p{
 padding: 0;
