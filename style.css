@@ -73,7 +73,6 @@ padding: 0;
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
-  #grid-2{background-color:transparent;}
 #grid-6{background-color:transparent;}
 #grid-4{background-color:transparent;}
 #grid-shame{background-color:transparent;}
@@ -84,6 +83,7 @@ padding: 0;
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   #grid-2{background-color:green;}
+  #grid-4{background-color:transparent;}
 } 
 
 /* Large devices (laptops/desktops, 992px and up) */
