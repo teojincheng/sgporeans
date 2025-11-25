@@ -70,6 +70,10 @@ padding: 0;
   max-width: 65%
 }
 
+#using-com-container{display:grid;
+   grid-template-columns: 45% 55%;}
+}
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
