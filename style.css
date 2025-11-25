@@ -72,7 +72,7 @@ padding: 0;
 
 #using-com-img{
   height: auto;
-  max-width: 40%
+  max-width: 49%
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -102,7 +102,7 @@ background-color: yellow;
 }
 #using-com-img{
   height: auto;
-  max-width: 49%
+  max-width: 55%
 }
   
 } 
@@ -118,6 +118,6 @@ background-color: yellow;
 }
 #using-com-img{
   height: auto;
-  max-width: 49%
+  max-width: 55%
 }
 }
