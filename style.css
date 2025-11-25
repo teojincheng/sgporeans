@@ -70,6 +70,11 @@ padding: 0;
   max-width: 65%
 }
 
+#using-com-img{
+  height: auto;
+  max-width: 30%
+}
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
@@ -93,7 +98,7 @@ padding: 0;
 background-color: yellow;
 }
         #using-com-container{display:grid;
-   grid-template-columns: 30% 70%;}
+   grid-template-columns: 29% 71%;}
 }
   
 } 
@@ -105,6 +110,6 @@ background-color: yellow;
 background-color: yellow;
 }
       #using-com-container{display:grid;
-   grid-template-columns: 30% 70%;}
+   grid-template-columns: 29% 70%;}
 }
 }
