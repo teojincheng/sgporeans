@@ -92,6 +92,9 @@ padding: 0;
   #grid-4{
 background-color: yellow;
 }
+        #using-com-container{display:grid;
+   grid-template-columns: 30% 70%;}
+}
   
 } 
 
@@ -100,5 +103,8 @@ background-color: yellow;
   #grid-2{background-color:green;}
   #grid-4{
 background-color: yellow;
+}
+      #using-com-container{display:grid;
+   grid-template-columns: 30% 70%;}
 }
 }
