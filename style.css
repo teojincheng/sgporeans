@@ -70,8 +70,9 @@ padding: 0;
   max-width: 65%
 }
 
-#using-com-container{display:grid;
-   grid-template-columns: 45% 55%;}
+#using-com-img{
+  height: auto;
+  max-width: 55%
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
