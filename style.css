@@ -56,7 +56,7 @@ padding: 0;
 
     .outlying-container{
   display:grid;
-   grid-template-columns: 56% 44%;
+   grid-template-columns: 59% 41%;
 }
 
   #dislike-container{display:grid;
