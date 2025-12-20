@@ -60,7 +60,7 @@ padding: 0;
 }
 
   #dislike-container{display:grid;
-   grid-template-columns: 55% 45%;}
+   grid-template-columns: 58% 42%;}
 
     #individual-container{display:grid;
    grid-template-columns: 49% 51%;}
