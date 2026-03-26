@@ -73,6 +73,16 @@ padding: 0;
 
     #individual-container{display:grid;
    grid-template-columns: 49% 51%;}
+
+  #house-people-pic{
+ height: 300px;
+}
+
+
+#food-stall-pic{
+ height: 300px;
+}
+
 }
 #individual-crowd-img{
   height:auto;
@@ -90,6 +100,16 @@ padding: 0;
 #grid-6{background-color:transparent;}
 #grid-4{background-color:transparent;}
 #grid-shame{background-color:transparent;}
+
+  #house-people-pic{
+ height: 300px;
+}
+
+
+#food-stall-pic{
+ height: 300px;
+}
+
 
 
 }
