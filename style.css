@@ -1,3 +1,11 @@
+commentsbyasvoria{
+  font-family: Arial, sans-serif; 
+  font-style: italic;          
+  font-weight: normal;       
+  font-size: 12px;       
+  color: #005623;
+}
+
 .outlying-container{
   display:grid;
    grid-template-columns: auto auto;
