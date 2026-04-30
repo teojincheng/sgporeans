@@ -1,1 +1,159 @@
 
+.outlying-container{
+  display:grid;
+   grid-template-columns: auto auto;
+}
+
+
+.text-grid{
+text-align: center;
+margin: auto;
+}
+
+#grid-2{
+background-color: green;
+}
+
+#grid-2 p{
+padding: 50px;
+}
+
+#grid-4{
+background-color: yellow;
+}
+
+#grid-4 p{
+padding: 20px;
+}
+
+img{
+ height: 200px;
+}
+
+#house-people-pic{
+ height: 600px;
+}
+
+
+#food-stall-pic{
+ height: 600px;
+}
+
+#grid-6{
+background-color: grey;
+}
+
+#bottom-navigation{
+text-align:center;
+}
+
+#grid-shame{
+background-color: #FFF0F5;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {  
+#grid-2{
+  
+}
+    #grid-2 p{
+padding: 0;
+}
+#grid-6{background-color:transparent;}
+#grid-4{background-color:transparent;}
+#grid-shame{background-color:transparent;}
+
+    .outlying-container{
+  display:grid;
+   grid-template-columns: 66% 34%;
+}
+
+  #dislike-container{display:grid;
+   grid-template-columns: 59% 41%;}
+
+    #individual-container{display:grid;
+   grid-template-columns: 49% 51%;}
+
+  #house-people-pic{
+ height: 300px;
+}
+
+
+#food-stall-pic{
+ height: 300px;
+}
+
+    #couple-container{
+    display:grid;
+   grid-template-columns: 70% 30%;
+
+  }
+
+}
+#individual-crowd-img{
+  height:auto;
+  max-width: 65%
+}
+
+#using-com-img{
+  height: auto;
+  max-width: 49%
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+#grid-6{background-color:transparent;}
+#grid-4{background-color:transparent;}
+#grid-shame{background-color:transparent;}
+
+  #house-people-pic{
+ height: 300px;
+}
+
+
+#food-stall-pic{
+ height: 300px;
+}
+
+
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  #grid-2{background-color:green;}
+  #grid-4{background-color:transparent;}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .#grid-2{background-color:green;}
+  #grid-4{
+background-color: yellow;
+}
+        #using-com-container{display:grid;
+   grid-template-columns: 29% 71%;}
+}
+#using-com-img{
+  height: auto;
+  max-width: 55%
+}
+  
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  #grid-2{background-color:green;}
+  #grid-4{
+background-color: yellow;
+}
+      #using-com-container{display:grid;
+   grid-template-columns: 29% 70%;}
+}
+#using-com-img{
+  height: auto;
+  max-width: 55%
+}
+}
