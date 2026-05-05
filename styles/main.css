@@ -101,6 +101,10 @@ padding: 0;
   max-width: 49%
 }
 
+.text-f{
+background-color: #E0D3AF;
+}
+
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
