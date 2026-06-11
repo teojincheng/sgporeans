@@ -12,3 +12,8 @@ background-color: #E0D3AF;
 text-align: center;
 margin: auto;
 }
+
+.tolerate-origin-size-responsive{
+  width: 100%;
+  height: auto;
+}
