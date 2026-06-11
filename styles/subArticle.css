@@ -1,3 +1,14 @@
 body{
 background-color: #E0D3AF;
 }
+
+.outlying-container{
+  display:grid;
+   grid-template-columns: auto auto;
+}
+
+
+.text-grid{
+text-align: center;
+margin: auto;
+}
