@@ -2,6 +2,10 @@ body{
 background-color: #E0D3AF;
 }
 
+#grid-2 p{
+padding: 50px;
+}
+
 .outlying-container{
   display:grid;
    grid-template-columns: auto auto;
