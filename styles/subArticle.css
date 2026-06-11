@@ -8,6 +8,10 @@ background-color: #E0D3AF;
 }
 
 
+    .outlying-container{
+  display:grid;
+   grid-template-columns: 66% 34%;
+}
 .text-grid{
 text-align: center;
 margin: auto;
