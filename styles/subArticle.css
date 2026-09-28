@@ -2,6 +2,11 @@ body{
 background-color: #E0D3AF;
 }
 
+
+#seaside{
+height: 73vh;
+}
+
 #grid-2 p{
 padding: 50px;
 }
